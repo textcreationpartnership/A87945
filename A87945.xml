@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Count Teckely to the Salamanca doctor, giving an account of the siege of Vienna, and the state of the Ottoman army.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87945</idno><idno type="EEBO-CITATION">43077529</idno>
+  <idno type="VID">151597</idno>
+  <idno type="EEBO-PROQUEST">2240889450</idno>
+  
+            <idno type="STC">Wing L1455</idno>
+            <idno type="STC">ESTC R179544</idno>
+            <idno type="OCLC">43077529</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151597)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2266:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Count Teckely to the Salamanca doctor, giving an account of the siege of Vienna, and the state of the Ottoman army.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Corbet at the Oxford Arms in Warwick Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A satire on Titus Oates and Gróf Imre Tököly.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Oates, Titus, 1649-1705 --  Humor.</term>
+               <term type="personal_name">Thököly, Imre, --  gróf, 1657-1705 --  Humor.</term>
+               <term type="geographic_name">Vienna (Austria) --  History --  Siege, 1683 --  Humor.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151597:1"/>
+            <head>A LETTER FROM <hi>Count TECKELY</hi> TO THE Salamanca Doctor, Giving an Account of the Siege of <hi>VIENNA,</hi> and the State of the <hi>OTTOMAN</hi> Army.</head>
+            <opener>
+               <salute>Venerable Sir,</salute>
+            </opener>
+            <p>THE savour of Your Reverend Name that hath for these few years past, been strong in the Nostrils of most part of <hi>Europe,</hi> hath at last come to me also, and not only to me, but even to the Court of the <hi>Grand Seignior</hi> himself, and so mightily have Your Parts, and Person merited with him, that I could no longer forbear giving you an Ac<g ref="char:EOLhyphen"/>count of it, which I had done some time ago, had not the tediousness of the War, and the uncertain success of our Forces before <hi>Vienna</hi> prevented me; however, considering it remains still dubious, I have stolen so much time from my urgent Affairs, to let You know what great Obligations Your <hi>Reve<g ref="char:EOLhyphen"/>rence</hi> hath laid, not only upon the <hi>Grand Seignior</hi> and his Army, but on me, and all the <hi>true Protestant Rebels</hi> under my Command. The tediousness, expensive<g ref="char:EOLhyphen"/>ness, and uncertainty of the Seige of <hi>Vienna</hi> had almost perswaded His Maje<g ref="char:EOLhyphen"/>sty the <hi>G. Seignior</hi> to withdraw his Forces from the Place; but when he heard the News of Your good Wishes for his Success, he grew proud to have the <hi>Saviour of three Kingdoms</hi> on his side; whose Prayers and good Wishes were for his good Success in the overturning the very Foundations of Christianity; nor could the fear of Success under the Tuition of one so mighty as you, that hath wrought so many Miracles lately, that were beyond the belief of any man of an ordinary Faith. Therefore, Great Sir, considering Your <hi>Almighty Power,</hi> I humbly beg Your Gracious Pardon, that I durst presume to intrude upon Your serious Thoughts and Prayers with this poor Address; but I hope when I have told you the Reasons that perswaded me to it, Your <hi>Reverence</hi> will pardon the boldness, and forgive the Crime, and cast a favourable Eye upon these Lines that are to shew You how much You haved obliged the <hi>true Prote<g ref="char:EOLhyphen"/>stant Mahometan Party,</hi> to be eternally Your <hi>Reverences</hi> Vassals: But lest a too tedious preamble should double the Crime I have committed, I will proceed to let Your <hi>Reverence</hi> know what were the Reasons of my writing to You at this time.</p>
+            <p>First, The <hi>G. Seignior</hi> having received an Account of Your Parts, Princi<g ref="char:EOLhyphen"/>ples and Person, found himself so much obliged to You, that he forthwith commanded me in his Name to return his grateful acknowledgements of the Favours You have vouchsafed him, in wishing well to his first Attempts upon the <hi>Empire,</hi> hoping, if the Great Prophet will bless his Endeavours, and Your Prayers with success, not only to conquer <hi>Germany,</hi> but all parts of the <hi>Chri<g ref="char:EOLhyphen"/>stian World,</hi> even the Nations of which You have been called the <hi>Almighty Saviour:</hi> Nor doth he question Your good Wishes and Endeavours to attri<g ref="char:EOLhyphen"/>bute all You can to his Conquest thereto; so that the Gospel may rather be totally extirpated, than enjoyed by those persons whom Your <hi>Reverence</hi> is pleased to call worse than <hi>Turks</hi> or <hi>Infidels.</hi> And as a token of his love to You, and all the <hi>English Mahometans</hi> and <hi>Tekelites,</hi> His Majesty the <hi>G. S.</hi> by
+<pb facs="tcp:151597:2"/> me assures You, that he will give and grant unto You the full enjoyment of <hi>Liberty of Conscience,</hi> after You have lent Your Prayers and Hands to the <hi>Extir<g ref="char:EOLhyphen"/>pating of Christianity:</hi> And he doth farther assure You, That he will use his ut<g ref="char:EOLhyphen"/>most Endeavours to make a perfect <hi>Ʋnity</hi> between the two Kirks of <hi>Mahomet</hi> and <hi>Geneva;</hi> and that the <hi>Directory,</hi> and the <hi>Alcoran</hi> shall be bound up in one Volumn, and be proclaimed <hi>equally Religious</hi> and <hi>Glorious,</hi> and equally to be used by the <hi>true Protestant Mahometans</hi> and <hi>Tekelites.</hi>
+            </p>
+            <p>But then, secondly, considering the dangerousness of the Siege, and the expensiveness of the War, and considering likewise the Power of the united Forces of the <hi>Christians</hi> and <hi>Catholick Princes,</hi> the War is like to be very charg<g ref="char:EOLhyphen"/>able, and the Event altogether uncertain, the <hi>G. S.</hi> begins to be in some fear about the success of his Forces; therefore he becomes Your humble Petitio<g ref="char:EOLhyphen"/>ner, and by me intreats You by the love You bear to the <hi>Mahometan Cause,</hi> immediately to send to his Relief those many <hi>thousand Black Bills</hi> that were provided for the Service of <hi>England:</hi> And he questions not, but You may con<g ref="char:EOLhyphen"/>vey them to him with privacy, since none but You ever <hi>saw,</hi> or <hi>knew</hi> of them: And as a farther Request, he implores You to send likewise the 40000 <hi>Spa<g ref="char:EOLhyphen"/>nish Pilgrims</hi> that You kept invisibly in pay for the service of Your design; and he would intreat You to let them be more <hi>visible</hi> for his Service than ever they were for the <hi>French Kings Interest,</hi> or else they will do him but a very inconsiderable Service. And that You may not have reason to believe You serve an ungrateful Master, he doth by me assure You of all the Reward You can deserve: And he promises upon the word of an <hi>Emperor,</hi> That if Your <hi>Reverence</hi> shall think fit to change the Climate You are in, and take a Voyage into his Dominions, immediately upon Your Arrival, and upon sight of Your Certificate of Commencement of <hi>Doctor</hi> at <hi>Salamanca,</hi> he will immediately creat You the <hi>Mufti,</hi> or Chief Priest of <hi>Mahomet;</hi> and because he is inform<g ref="char:EOLhyphen"/>ed of the daily decrease of Your <hi>Janizaries,</hi> he promises to let You have what number You think fit, to guard Your <hi>Reverence</hi> from any that shall think it worth his while to assassinate You: And that You may never want a continual supply of Males to satisfie Your carnal Appetite, he promises to erect a mas<g ref="char:EOLhyphen"/>culine <hi>Seraglio,</hi> where a constant number of Bums shall be continually pro<g ref="char:EOLhyphen"/>strate to receive Your Discipline. Thus have I given You an account of what the <hi>Grand Seigniors</hi> mind is concerning You, and the Reward he will bestow upon You for Your good Service to the <hi>Mahometan Cause.</hi> I now presume upon Your Patience one minute to shew You the particular respect I have for You, in consideration of the good Wishes in Rebellion in General, and to me, and my fellow Rebels in particular. And I would implore Your Reverence to give my utmost service to all the <hi>true Protestant Mahometan Tekelites</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that pray for the success of the <hi>Grand Seignior</hi> that known Enemy to the <hi>Crucified God</hi> they pretended to adore, those holy and religious men that would have the <hi>Gospel</hi> fall down and worship the <hi>Alcoran,</hi> and the <hi>Half-moon</hi> triumph over the <hi>Cross</hi> of a <hi>martyred Saviour.</hi> But that I may not tire Your <hi>Reverences</hi> patience, I will conclude with my Prayers for Your perseverance in the <hi>Mahometan good old Cause.</hi> And since you have many <hi>Teckelites</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> pray let my Respects be given to them all in General, and especially to the young Prince <hi>Mon—Teckely,</hi> and all his <hi>Mahometan</hi> Followers. And I presume to advise Your <hi>Reverence</hi> to give some of those Commission You talk'd of in <hi>England,</hi> to some of Your Friends, and post them away in that <hi>Vessel</hi> that brought You from <hi>Spain</hi> to <hi>Islington</hi> in a days space, for we want a speedy relief. In fine I humbly beseech You to make a general Muster of all the <hi>true Protestant Mahometans,</hi> black Bills, <hi>Spanish</hi> Pilgrims, <hi>Irish</hi> Ruffins, <hi>French</hi> Armies, <hi>Purbeck</hi> Invaders, screw'd Guns, and chew'd bullets, <hi>Protestant</hi> Flayles and Blunderbusses, and send them with all speed and privacy for the Relief of the <hi>G. S.</hi> And in so doing, You will Eternally add to the Obliga<g ref="char:EOLhyphen"/>tions You have already laid upon Your Revences most Humble Vassal</p>
+            <closer>
+               <signed>TECKLEY.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: <hi>Printed for</hi> Charles Corbet <hi>at the</hi> Oxford Arms <hi>in</hi> VVarwick Lane. <hi>1683.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
